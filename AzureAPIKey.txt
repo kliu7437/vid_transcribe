@@ -1,0 +1,14 @@
+Bing Speech API
+This API key is currently active
+
+30 days remaining
+
+Convert speech to text and back again to understand user intent
+
+5,000 transactions, 20 per minute for each feature.
+
+Endpoint: https://api.cognitive.microsoft.com/sts/v1.0
+
+Key 1: 92ce23d571e1407e9ed5bcad249564c5
+
+Key 2: 138e3d1c4d8f493bbbd136c5d1c27dbc
